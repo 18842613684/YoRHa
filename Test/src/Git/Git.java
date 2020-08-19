@@ -6,7 +6,7 @@ public class Git {
 		System.out.println("asdasdasd");
 		System.out.println("asdasdasd");
 		System.out.println("asdasdasd");
-		System.out.println("asdasdasd");
+		System.out.println("----------------------");
 	}
 
 }
